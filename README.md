@@ -24,6 +24,15 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modeling
+- Data Analytics
+
 ---
 
 ## 🚀 Project Requirements
@@ -86,3 +95,9 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+--- 
+
+## Reference
+
+This is a guided project based on this video: [SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project - YouTube](https://www.youtube.com/watch?v=9GVqKuTVANE&t=653s)
