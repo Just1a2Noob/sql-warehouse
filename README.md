@@ -1,3 +1,6 @@
+# DISCLAIMER!
+
+This project has been re-written in PostgreSQL instead of SQLite.
 
 # Data Warehouse and Analytics Project
 
